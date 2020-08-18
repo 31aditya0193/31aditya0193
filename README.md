@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...-->
 📫 How to reach me:
-Connect with me on Linked in
+Connect with me on [LinkedIn](https://www.linkedin.com/in/31aditya0193/)
 <!-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
