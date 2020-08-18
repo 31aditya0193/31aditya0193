@@ -4,7 +4,7 @@
 **31aditya0193/31aditya0193** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Here are some ideas to get you started:
+I am Aditya, a passionate and creative developer with a strong interest in Apple Technologies.
 
 - 🔭 I’m currently working on Swift, iOS and looking towards macOS.
 <!-- 🌱 I’m currently learning ...
