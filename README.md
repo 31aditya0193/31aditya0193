@@ -13,5 +13,6 @@ I am Aditya, a passionate and creative developer with a strong interest in Apple
 - 💬 Ask me about ...-->
 📫 How to reach me:
 - [x] Connect with me on [LinkedIn](https://www.linkedin.com/in/31aditya0193/)
+- [x] Shoot me an [Email](31aditya0193@gmail.com)
 <!-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
