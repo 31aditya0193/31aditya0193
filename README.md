@@ -14,8 +14,8 @@ I am Aditya, a passionate and creative developer with a interest in Apple Techno
 - 💬 Ask me about Movies, Algorithms, Photography and Science; in that order.
 
 📫 How to reach me:
-- [x] Connect with me on [LinkedIn](https://www.linkedin.com/in/31aditya0193/)
-- [x] Shoot me an [✉️](mailto:31aditya0193@gmail.com) at [31aditya0193@gmail.com](mailto:31aditya0193@gmail.com)
-- [x] Catch me on [🕊](https://twitter.com/31aditya0193) [Twitter](https://twitter.com/31aditya0193)
+- 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/31aditya0193/)
+- ✉️ Shoot me an E-mail at [31aditya0193@gmail.com](mailto:31aditya0193@gmail.com)
+- 🕊 Catch me on [Twitter](https://twitter.com/31aditya0193)
 <!-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
