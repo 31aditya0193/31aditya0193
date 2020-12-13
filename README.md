@@ -10,6 +10,7 @@ I am Aditya, a passionate and creative developer with a interest in Apple Techno
 <!-- 🌱 I’m currently learning ...
 - 🤔 I’m looking for help with ...-->
 - 👯 I’m looking to collaborate on iOS Apps and Swift & SwiftUI Libraries.
+
 - 💬 Ask me about Movies, Algorithms, Photography and Science; in that order.
 
 📫 How to reach me:
