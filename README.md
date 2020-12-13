@@ -15,10 +15,10 @@ I am Aditya, a passionate and creative developer with a interest in Apple Techno
 
 📫 How to reach me:
 
-🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/31aditya0193/)
+  🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/31aditya0193/)
 
-✉️ Shoot me an E-mail at [31aditya0193@gmail.com](mailto:31aditya0193@gmail.com)
+  ✉️ Shoot me an E-mail at [31aditya0193@gmail.com](mailto:31aditya0193@gmail.com)
 
-🕊 Catch me on [Twitter](https://twitter.com/31aditya0193)
+  🕊 Catch me on [Twitter](https://twitter.com/31aditya0193)
 <!-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
