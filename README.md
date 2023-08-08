@@ -20,5 +20,5 @@ I am Aditya, a passionate and creative developer with a interest in Apple Techno
 - ✉️ Shoot me an E-mail at [31aditya0193@gmail.com](mailto:31aditya0193@gmail.com)
 
 - 🕊 Catch me on [Twitter](https://twitter.com/31aditya0193)
-<!-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...-->
+
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=31aditya0193&count_private=true&show_icons=true&theme=tokyonight)
